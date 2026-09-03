@@ -1,0 +1,11 @@
+
+# Ignore all checkpoints folders
+**/.ipynb_checkpoints/
+
+# Ignore .pyc files
+*.pyc
+
+# Ignore cache files
+**/__pycache__/
+
+
