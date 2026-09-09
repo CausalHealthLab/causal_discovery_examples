@@ -1,0 +1,20 @@
+name: causal_discovery_examples
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - numpy
+  - pandas
+  - pip
+  - python>=3.12
+  - matplotlib
+  - scipy
+  - pip:
+    - dowhy
+    - gcastle
+    - graphviz
+    - jupyterlab
+    - networkx
+    - torch  # required for gcastle
+    - scikit-learn
