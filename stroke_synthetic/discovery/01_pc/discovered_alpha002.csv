@@ -1,0 +1,15 @@
+,year,age,male,afib,warfarin,shoe_size,nihss,thrombolysis_time,thrombolysis,mortality_prob_no_treatment,mortality_probability,ethnicity_asian,ethnicity_black,ethnicity_white
+year,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+age,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+male,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+afib,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+warfarin,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+shoe_size,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+nihss,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+thrombolysis_time,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+thrombolysis,0,0,0,0,0,0,1,1,0,0,1,0,0,0
+mortality_prob_no_treatment,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+mortality_probability,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ethnicity_asian,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ethnicity_black,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+ethnicity_white,0,0,0,0,0,0,0,0,0,1,1,0,1,0
